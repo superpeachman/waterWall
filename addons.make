@@ -1,0 +1,10 @@
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxOsc
+ofxVectorGraphics
+ofxXmlSettings
+ofxCv
+ofxFaceTracker
+ofxOpenNI
+ofxPDF
